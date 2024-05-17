@@ -1,7 +1,7 @@
 # This repository contains the 'bb' theme for Macchina.
 
 **Clone the repository:**
- 	`git clone https://github.com/your-username/macchina-theme.git`
+ 	`git clone https://github.com/thiswombat/macchina-theme-bb.git`
   
 **Copy the theme files:**
 	Copy the `bb.toml` file to `~/.config/macchina/theme` folder
