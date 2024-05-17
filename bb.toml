@@ -21,7 +21,7 @@ visible         = false
 hide_delimiters = false
 
 [box]
-title           = "Slaptop Mk-II"
+title           = ""
 border          = "rounded"
 visible         = true
 
