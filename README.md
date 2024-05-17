@@ -1,5 +1,7 @@
 # This repository contains the 'bb' theme for Macchina.
 
+![Image of the theme](Screenshot_2024-05-17_07-53-58.png)
+
 **Clone the repository:**
  	`git clone https://github.com/thiswombat/macchina-theme-bb.git`
   
