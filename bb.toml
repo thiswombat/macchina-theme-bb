@@ -1,0 +1,61 @@
+# bb - BigBrotherTW's Macchina Theme
+
+spacing         = 1
+padding         = 0
+hide_ascii      = true
+separator       = "--- "
+key_color       = "#875bae"
+separator_color = "#31ea75"
+
+[palette]
+type            = "Light"
+glyph           = "●"
+spacing         = 2
+visible         = false
+
+[bar]
+glyph           = "●"
+symbol_open     = '('
+symbol_close    = ')'
+visible         = false
+hide_delimiters = false
+
+[box]
+title           = "Slaptop Mk-II"
+border          = "rounded"
+visible         = true
+
+[box.inner_margin]
+x               = 2
+y               = 1
+
+[custom_ascii]
+color           = "Yellow"
+#path            = 
+
+[randomize]
+key_color       = false
+separator_color = false
+pool            = "base"
+
+[keys]
+host            = "Host"
+kernel          = "Kernel"
+battery         = "Battery"
+os              = "OS"
+de              = "DE"
+wm              = "WM"
+distro          = "Distro"
+terminal        = "Terminal"
+shell           = "Shell"
+packages        = "Packages"
+uptime          = "Uptime"
+memory          = "Memory"
+machine         = "Machine"
+ local_ip        = "IP"
+backlight       = "Brightness"
+resolution      = "Resolution"
+cpu_load        = "CPU Load"
+cpu             = "CPU"
+gpu             = "GPU"
+disk_space      = "Disk Space"
